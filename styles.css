@@ -20,22 +20,13 @@ body{
 }
 
 .left{
-    width: 60%;
-    height: 30%;
+    width: 100px;
+    height: 60px;
 }
 img{
     width: 100%;
     height: 100%;
 }
-/* h2{
-    color: #1877f2;
-    background-color: #f6f6f6;
-    font-weight: bolder;
-    font-size: 40px;
-    font-style:normal;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
-    margin-bottom: 2vw;
-} */
 
 #details{
     display: flex;
@@ -87,7 +78,7 @@ a{
     padding-bottom: 5px;
 }
 
-#btn2{
+.signup{
     background-color: #43b72a;
     border: none;
     border-radius: 3px;
